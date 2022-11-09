@@ -6,8 +6,8 @@ public class multi{
     int c = 5;
     int d = 5;
 
-    system.out.println("the multi is = " + (c*d));
+    System.out.println("the multi is = " + (c*d));
 
-    system.out.println("the multiply is = "+ (a*b));
+    System.out.println("the multiply is = "+ (a*b));
   }
 }
